@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SabrinaAug
 - 👀 I’m interested in traveling, reading and working on mobile devices
-- 🌱 I’m currently learning Playwright and Swift
+- 🌱 I’m currently learning Playwright, Sélénium, Android(Kotlin) and IOS(Swift-UI)
 - 💞️ I’m looking to collaborate on test automation and IOS applications
 
 
